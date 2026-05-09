@@ -716,3 +716,19 @@ All projections and interpretations are model-derived and subject to:
 - exogenous macro shocks,
 - liquidity regime shifts,
 - data revisions.
+
+
+<img width="1506" height="530" alt="Screenshot 2026-05-09 at 7 25 38 AM" src="https://github.com/user-attachments/assets/18279df9-07de-485b-b302-1e498f98c136" />
+<img width="1508" height="536" alt="Screenshot 2026-05-09 at 7 25 47 AM" src="https://github.com/user-attachments/assets/00b88b59-e840-4882-9c7b-8837fceb0f9a" />
+<img width="1512" height="538" alt="Screenshot 2026-05-09 at 7 26 02 AM" src="https://github.com/user-attachments/assets/44710187-1812-4ea4-8c5e-4a1d8f4c0f7e" />
+<img width="1512" height="537" alt="Screenshot 2026-05-09 at 7 26 10 AM" src="https://github.com/user-attachments/assets/52c92e68-e425-4fae-a81f-3a79a5e3c9e8" />
+<img width="1508" height="535" alt="Screenshot 2026-05-09 at 7 26 17 AM" src="https://github.com/user-attachments/assets/d654ff07-2fff-4cb8-a374-820dce5c354e" />
+<img width="1512" height="530" alt="Screenshot 2026-05-09 at 7 26 26 AM" src="https://github.com/user-attachments/assets/8e1986fe-8522-4d55-982e-d20b7bcc5f02" />
+<img width="1510" height="526" alt="Screenshot 2026-05-09 at 7 26 33 AM" src="https://github.com/user-attachments/assets/154770a4-ce68-462b-a7f8-84d3b34e8bc6" />
+<img width="1512" height="542" alt="Screenshot 2026-05-09 at 7 26 40 AM" src="https://github.com/user-attachments/assets/65ef7123-6df9-4aa7-83a1-285b4eef1f31" />
+<img width="1506" height="518" alt="Screenshot 2026-05-09 at 7 26 57 AM" src="https://github.com/user-attachments/assets/3088aac0-d970-4af8-a0db-5be4f19b1c5b" />
+<img width="1512" height="524" alt="Screenshot 2026-05-09 at 7 27 05 AM" src="https://github.com/user-attachments/assets/d4db24b3-83c8-47f8-818a-8831c5266a52" />
+<img width="1512" height="530" alt="Screenshot 2026-05-09 at 7 27 13 AM" src="https://github.com/user-attachments/assets/516675b9-6c99-4475-b004-20ceda2990f3" />
+<img width="1506" height="530" alt="Screenshot 2026-05-09 at 7 27 20 AM" src="https://github.com/user-attachments/assets/230feb75-b43e-47bc-914f-95758d0b6e3d" />
+<img width="1512" height="535" alt="Screenshot 2026-05-09 at 7 27 37 AM" src="https://github.com/user-attachments/assets/6f71034e-237c-434a-bd82-96a491022477" />
+<img width="1512" height="534" alt="Screenshot 2026-05-09 at 7 27 44 AM" src="https://github.com/user-attachments/assets/9223b82b-4d8e-4881-b451-39a9911abf2a" />
