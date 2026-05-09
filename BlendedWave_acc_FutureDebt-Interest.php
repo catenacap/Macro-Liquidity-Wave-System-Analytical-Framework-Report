@@ -697,7 +697,7 @@ function load_monthly_db_series_map($mysqli, $table){
 
 // ==================== DEBT-LIQUIDITY FORWARD ENGINE ====================
 // Adds rollover + interest + Fed/Treasury liquidity requirement projection into the existing wave stack.
-$FRED_API_KEY = 'bc1f9b6e99e9dc645ecd1eb5812c37e2';
+$FRED_API_KEY = 'xxxx'; ##USE FROM FRED (FREE)
 $DEBT_LIQ_FORWARD_YEARS = 5;
 $DEBT_LIQ_REQUIRED_MULTIPLE = 2.70;
 $DEBT_LIQ_ROLLOVER_CYCLES = 8;
